@@ -1,0 +1,7 @@
+C:\Users\ASUS\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKaryawan.csprojAssemblyReference.cache
+C:\Users\ASUS\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKaryawan.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\GajiKaryawan\GajiKaryawan\bin\Debug\GajiKaryawan.exe.config
+C:\Users\ASUS\source\repos\GajiKaryawan\GajiKaryawan\bin\Debug\GajiKaryawan.exe
+C:\Users\ASUS\source\repos\GajiKaryawan\GajiKaryawan\bin\Debug\GajiKaryawan.pdb
+C:\Users\ASUS\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKaryawan.exe
+C:\Users\ASUS\source\repos\GajiKaryawan\GajiKaryawan\obj\Debug\GajiKaryawan.pdb
